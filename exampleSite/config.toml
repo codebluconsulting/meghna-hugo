@@ -1,4 +1,4 @@
-baseURL = "https://jesse-wdlzma8.netlify.com"
+baseURL = "https://codeblu-test.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
