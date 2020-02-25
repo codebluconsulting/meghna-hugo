@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "Some Kinda test site"
-title = "Test Site"
+title = "Jesse Test Site"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
